@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
